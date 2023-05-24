@@ -71,5 +71,5 @@ DIY Geiger Counter Module with Pulsed Output GGreg20_V3
 
 [Tindie Blog GGreg20_V3 search](https://blog.tindie.com/?s=GGreg20_V3)
 
-[IFIXIT GGreg20_V3 search](ifixit.com/Search?query=ggreg20_v3)
+[IFIXIT GGreg20_V3 search](https://www.ifixit.com/Search?query=ggreg20_v3)
 
