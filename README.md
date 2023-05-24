@@ -15,7 +15,7 @@ DIY Geiger Counter Module with Pulsed Output GGreg20_V3
 
 ## Driver Libraries and Code Examples
 
-### GGreg20_V3 compatible firmware for FlipperZero
+### GGreg20_V3 compatible firmware for Flipper Zero
 > If GGreg20_V3 is used with a J305 Geiger tube, no changes are required at all, i.e. you can simply compile this example. 
 In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need to change the conversion factor for the tube from 0.0081 to the appropriate one (for SBM20 - 0.0057) before compiling the firmware in the source code of this example.
 
