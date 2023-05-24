@@ -38,8 +38,12 @@ DIY Geiger Counter Module with Pulsed Output GGreg20_V3
 ## Projects
 ### Tags
 [Hackaday GGreg20_V3 tag](https://hackaday.io/projects?tag=ggreg20_v3)
+
 [Hackaday Geiger Counter tag](https://hackaday.io/projects?tag=Geiger%20counter)
 ### Search
 [Hackaday GGreg20_V3 search](https://hackaday.io/search?term=ggreg20_v3)
+
 [Instructables GGreg20_V3 search](https://www.instructables.com/search/?q=ggreg20_v3&projects=all)
+
 [Tindie Blog GGreg20_V3 search](https://blog.tindie.com/?s=GGreg20_V3)
+
