@@ -31,6 +31,8 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [GGreg20_V3 under Home Assistant with ESPHome setup example](https://github.com/iotdevicesdev/ggreg20-v3-homeassistant-esphome-example#ggreg20_v3-under-home-assistant-with-esphome-setup-example)
 #### ESP32 Example / YAML
 [GGreg20_V3 with generic ESP32 under Home Assistant with ESPHome setup example](https://github.com/iotdevicesdev/GGreg20_V3-ESP32-HomeAssistant-ESPHome#ggreg20_v3-with-generic-esp32-under-home-assistant-with-esphome-setup-example)
+#### Raspberry Pi Pico W Example / YAML
+[Raspberry Pi Pico W Geiger counter using GGreg20_V3 and ESPHome example](https://github.com/iotdevicesdev/RPi-Pico-W_GGreg20_V3-ESPHome)
 
 ### ThingSpeak / YAML
 [GGreg20_V3 Radiation Sensor Node with ThingSpeak REST-API for Home Assistant](https://github.com/iotdevicesdev/GGreg20_V3-Kyiv-Radiation-Sensor-ThingSpeak-HomeAssistant#ggreg20_v3-radiation-sensor-node-with-thingspeak-rest-api-for-home-assistant)
