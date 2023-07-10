@@ -13,6 +13,11 @@
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=>
 [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
 
+## Media coverage
+- [Tom's Hardware: Raspberry Pi Radiation Monitor Goes Wireless With Pico W by Ash Hill](https://www.tomshardware.com/news/raspberry-pi-radiation-monitor-goes-wireless-with-pico-w)
+- [Tindie Blog: Ionizing Radiation Detector For Safer Foraging by Jo Hinchliffe](https://blog.tindie.com/2021/06/ionizing-radiation-detector-for-safer-foraging/)
+- [alterstrategy.lab: Connecting the GGreg20_V3 radiation sensor to the Home Assistant server through ESP Home integration](https://alterstrategy.com/2021/07/20/pidklyuchennya-sensora-radiatsiyi-ggreg20_v3-do-servera-home-assistant-cherez-integratsiyu-esp-home/)
+
 ## Hardware compatibility
 | MCU | Compatibility | We tested | Code Example |
 | ----------------- | ----------------- | ----------------- | ----------------- |
@@ -65,6 +70,21 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [GGreg20_V3 NodeMCU firmware Lua code example](https://github.com/iotdevicesdev/ggreg20-v3-nodemcu-lua-example#ggreg20_v3-nodemcu-firmware-lua-code-example)
 ### Wokwi / C++
 [GGreg20_V3 radiation counter simulator for Arduino UNO powered by WOKWI](https://github.com/iotdevicesdev/ggreg20-v3-arduino-uno-wokwi-simulator#ggreg20_v3-radiation-counter-simulator-for-arduino-uno-powered-by-wokwi)
+
+## Some examples of GGreg20_V3 use cases
+### ThingSpeak
+[Jump to it](https://thingspeak.com/channels/1749073)
+![ThingSpeak_iot-devices_Kyiv_2023-07-10_175726](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/bdf68991-1d12-4742-850f-5ad05fa388e2)
+
+### Radmon.org
+[Jump to it](https://radmon.org/radmon.php?function=showuserpage&user=jardous)
+![Domstadt_jardous_2023-07-10_174204](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/5cabf96c-03af-48c6-a0f1-61e0df01d559)
+
+[Jump to it](https://radmon.org/radmon.php?function=showuserpage&user=htotoo)
+![Hungary_Budapest_htotoo_2023-07-10_172950](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/fdf28739-b02d-41fd-b8ad-275591a7a628)
+
+[Jump to it](https://www.reddit.com/r/raspberry_pi/comments/14kw5ur/remote_wifi_radiation_monitor_using_rpi_pico_w/)
+![RPi_Sboger_reddit_2023-07-10_180802](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/a45bedb4-734f-46b0-ad7b-4a8e324470e6)
 
 ## Technical Notes
 [Technical note on voltage level matching for GGreg20_V3 and 5V MCU](https://iot-devices.com.ua/en/technical-note-on-voltage-level-matching-for-ggreg20v3-and-5v-mcu/)
