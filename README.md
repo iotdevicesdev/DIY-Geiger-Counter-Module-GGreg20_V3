@@ -15,6 +15,15 @@
 
 ## Driver Libraries and Code Examples
 
+| IoT Platform | Platform support | We Tested | Code Example |
+| ------------- | ------------- | ------------- | ------------- |
+| Arduino / C++ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/edit/main/README.md#arduino--c) |
+| ESPHome / YAML | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/edit/main/README.md#home-assistant-and-esphome) |
+| ThingSpeak / REST | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/edit/main/README.md#thingspeak--rest)|
+| Tasmota / Berry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/edit/main/README.md#tasmota--berry)|
+| NodeMCU / Lua | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/edit/main/README.md#nodemcu--lua)|
+| MicroPython | :heavy_check_mark: | :x: | :x: | 
+
 ### GGreg20_V3 compatible firmware for Flipper Zero
 > If GGreg20_V3 is used with a J305 Geiger tube, no changes are required at all, i.e. you can simply compile this example. 
 In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need to change the conversion factor for the tube from 0.0081 to the appropriate one (for SBM20 - 0.0057) before compiling the firmware in the source code of this example.
@@ -36,7 +45,7 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 #### Raspberry Pi Pico W Example / YAML
 [Raspberry Pi Pico W Geiger counter using GGreg20_V3 and ESPHome example](https://github.com/iotdevicesdev/RPi-Pico-W_GGreg20_V3-ESPHome)
 
-### ThingSpeak / YAML
+### ThingSpeak / REST
 [GGreg20_V3 Radiation Sensor Node with ThingSpeak REST-API for Home Assistant](https://github.com/iotdevicesdev/GGreg20_V3-Kyiv-Radiation-Sensor-ThingSpeak-HomeAssistant#ggreg20_v3-radiation-sensor-node-with-thingspeak-rest-api-for-home-assistant)
 ### Tasmota / Berry
 [GGreg20_V3 and ESP32 Tasmota Firmware driver](https://github.com/iotdevicesdev/ggreg20-v3-tasmota-esp32-driver#ggreg20_v3-and-esp32-tasmota-firmware-driver)
