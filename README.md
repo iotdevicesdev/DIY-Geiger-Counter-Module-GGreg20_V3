@@ -1,6 +1,6 @@
 # DIY Geiger Counter Module GGreg20_V3
 DIY Geiger Counter Module with Pulsed Output GGreg20_V3
-
+![DIY Geiger counter GGreg20_V3 with J305 pr SBM20 GM-tubes](DIY_Geiger_counter_GGreg20_V3_repo_GitHub_ENG.jpg)
 ## Easy Links
 ### Unique Vendor ID
 [go.iot-devices.com.ua/ggreg20_v3](https://go.iot-devices.com.ua/ggreg20_v3)
