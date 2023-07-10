@@ -13,6 +13,15 @@
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=>
 [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
 
+## Hardware compatibility
+| MCU | Compatibility | We tested | Code Example |
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| Raspberry Pi Pico W | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#raspberry-pi-pico-w-example--yaml)|
+| Arduino UNO | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#arduino--c)|
+| ESP8266-12F | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [ESPHome / YAML](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#esp8266-example--yaml) and [NodeMCU / Lua](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#nodemcu--lua)|
+| ESP32 (generic) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [ESPHome / YAML](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#esp32-example--yaml) and [Tsmota32 / Berry](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#tasmota--berry)|
+| STM32 | :heavy_check_mark: | :x: | :x: |
+
 ## Driver Libraries and Code Examples
 
 | IoT Platform | Platform support | We Tested | Code Example |
