@@ -31,11 +31,11 @@
 
 | IoT Platform | Platform support | We Tested | Code Example |
 | ------------- | ------------- | ------------- | ------------- |
-| Arduino / C++ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/blob/main/README.md#arduino--c) |
-| ESPHome / YAML | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/blob/main/README.md#home-assistant-and-esphome) |
-| ThingSpeak / REST | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/blob/main/README.md#thingspeak--rest)|
-| Tasmota / Berry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/blob/main/README.md#tasmota--berry)|
-| NodeMCU / Lua | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/blob/main/README.md#nodemcu--lua)|
+| Arduino / C++ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#arduino--c) |
+| ESPHome / YAML | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#home-assistant-and-esphome) |
+| ThingSpeak / REST | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#thingspeak--rest)|
+| Tasmota / Berry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#tasmota--berry)|
+| NodeMCU / Lua | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#nodemcu--lua)|
 | MicroPython | :heavy_check_mark: | :x: | :x: | 
 
 ### GGreg20_V3 compatible firmware for Flipper Zero
