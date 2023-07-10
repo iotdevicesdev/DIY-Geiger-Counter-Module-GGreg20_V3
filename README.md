@@ -1,5 +1,5 @@
 # DIY Geiger Counter Module GGreg20_V3
-DIY Geiger Counter Module with Pulsed Output GGreg20_V3
+
 ![DIY Geiger counter GGreg20_V3 with J305 pr SBM20 GM-tubes](DIY_Geiger_counter_GGreg20_V3_repo_GitHub_ENG.jpg)
 ## Easy Links
 ### Unique Vendor ID
@@ -24,6 +24,8 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 ### Arduino / C++
 [IoT-devices GGreg20_V3 Arduino Driver Library](https://github.com/iotdevicesdev/GGreg20_V3)
 
+[Reference Libraries at arduino.cc](https://reference.arduino.cc/reference/en/libraries/ggreg20_v3/)
+
 ### Home Assistant and ESPHome
 #### ESPHome Devices
 [GGreg20_V3 page at devices.esphome.io](https://devices.esphome.io/devices/IoT-devices-GGreg20-V3)
@@ -38,6 +40,9 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [GGreg20_V3 Radiation Sensor Node with ThingSpeak REST-API for Home Assistant](https://github.com/iotdevicesdev/GGreg20_V3-Kyiv-Radiation-Sensor-ThingSpeak-HomeAssistant#ggreg20_v3-radiation-sensor-node-with-thingspeak-rest-api-for-home-assistant)
 ### Tasmota / Berry
 [GGreg20_V3 and ESP32 Tasmota Firmware driver](https://github.com/iotdevicesdev/ggreg20-v3-tasmota-esp32-driver#ggreg20_v3-and-esp32-tasmota-firmware-driver)
+
+[Tasmota Supported Peripherals](https://tasmota.github.io/docs/Supported-Peripherals/)
+
 ### NodeMCU / Lua
 [GGreg20_V3 NodeMCU firmware Lua code example](https://github.com/iotdevicesdev/ggreg20-v3-nodemcu-lua-example#ggreg20_v3-nodemcu-firmware-lua-code-example)
 ### Wokwi / C++
