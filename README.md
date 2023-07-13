@@ -72,6 +72,10 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [GGreg20_V3 radiation counter simulator for Arduino UNO powered by WOKWI](https://github.com/iotdevicesdev/ggreg20-v3-arduino-uno-wokwi-simulator#ggreg20_v3-radiation-counter-simulator-for-arduino-uno-powered-by-wokwi)
 
 ## Some examples of GGreg20_V3 use cases
+### GMCMap - Geiger counter World map
+[Jump to it](http://www.gmcmap.com/index.asp)
+![gmc_map_Plzen_CzechRepublic_GGreg20_V3_SBM20_2023-07-12_230957](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/061bef73-f14d-4d5a-9185-b8aca04db5e1)
+
 ### ThingSpeak
 [Jump to it](https://thingspeak.com/channels/1749073)
 ![ThingSpeak_iot-devices_Kyiv_2023-07-10_175726](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/bdf68991-1d12-4742-850f-5ad05fa388e2)
