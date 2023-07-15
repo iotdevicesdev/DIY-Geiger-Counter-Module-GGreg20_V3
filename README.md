@@ -110,6 +110,13 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [Geiger-Muller tubes: Comparison of SBM20, J305 and LND712](https://iot-devices.com.ua/en/comparison-of-geiger-muller-tubes-sbm20-j305-and-lnd712/)
 
 ## Projects
+### Online services where GGreg20_V3 is present
+[gmcmap.com](https://gmcmap.com)
+
+[radmon.org](https://radmon.org)
+
+[thingspeak.com](https://thingspeak.com/channels/public?tag=geiger)
+
 ### Tags and Topics
 [Hackaday GGreg20_V3 tag](https://hackaday.io/projects?tag=ggreg20_v3)
 
@@ -118,6 +125,10 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 [Hackaday 'Geiger Counter' tag](https://hackaday.io/projects?tag=Geiger%20counter)
 
 [GitHub 'geiger-counter' topic](https://github.com/search?q=topic%3Ageiger-counter&type=repositories)
+
+[Medium 'Geiger Counter' tag](https://medium.com/tag/ggreg20-v3)
+
+[HackerNoon 'Geiger Counter' tag](https://hackernoon.com/tagged/ggreg20_v3)
 
 ### Search
 [Hackaday GGreg20_V3 search](https://hackaday.io/search?term=ggreg20_v3)
