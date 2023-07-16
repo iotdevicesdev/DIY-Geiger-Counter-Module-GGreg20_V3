@@ -73,8 +73,20 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 
 ## Some examples of GGreg20_V3 use cases
 ### GMCMap - Geiger counter World map
-[Jump to it](http://www.gmcmap.com/index.asp)
+#### Czech Republic 
+##### Plzen [Jump to it](https://www.gmcmap.com/historyData.asp?Param_ID=46638764351)
 ![gmc_map_Plzen_CzechRepublic_GGreg20_V3_SBM20_2023-07-12_230957](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/061bef73-f14d-4d5a-9185-b8aca04db5e1)
+
+#### France
+##### Lyon (Sensor 1) [Jump to it](https://www.gmcmap.com/historyData.asp?Param_ID=79913303488)
+![gmcmap_diy_ggreg30_v3_lyon1_2023-07-16_164541](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/e18f2dea-bcbf-47b5-9d80-986179ccc76e)
+
+##### Lyon (Sensor 2) [Jump to it](https://www.gmcmap.com/historyData.asp?Param_ID=81743704750)
+![gmcmap_diy_ggreg30_v3_lyon2_2023-07-16_164541](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/128ae689-85fa-4ed9-b3b8-856d0383311d)
+
+#### Ukraine 
+##### Kyiv (demo-mode) [Jump to it](https://www.gmcmap.com/historyData.asp?Param_ID=18247516329)
+![MAP_GGreg20_V3_SBM20_Screen_2023-07-14_153420_2](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/03979abc-2576-4c1a-b4dc-6fdcaba32b44)
 
 ### ThingSpeak
 [Jump to it](https://thingspeak.com/channels/1749073)
