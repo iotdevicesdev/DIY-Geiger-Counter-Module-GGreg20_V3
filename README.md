@@ -13,6 +13,9 @@
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=>
 [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
 
+
+<a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
 ## Media coverage
 - [Tom's Hardware: Raspberry Pi Radiation Monitor Goes Wireless With Pico W by Ash Hill](https://www.tomshardware.com/news/raspberry-pi-radiation-monitor-goes-wireless-with-pico-w)
 - [Tindie Blog: Ionizing Radiation Detector For Safer Foraging by Jo Hinchliffe](https://blog.tindie.com/2021/06/ionizing-radiation-detector-for-safer-foraging/)
@@ -37,6 +40,12 @@
 | Tasmota / Berry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#tasmota--berry)|
 | NodeMCU / Lua | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#nodemcu--lua)|
 | MicroPython | :heavy_check_mark: | :x: | :x: | 
+
+### ESPHome and Home Assistant Compatibility
+This hardware device is designed to be compatible with as many common software platforms and hardware systems as possible. GGreg20_V3 is compatible with any of the following systems: Arduino, ESP8266, ESP32, STM32, Raspberry Pi, ESPHome, Home Assistant, Tasmota, MicroPython, NodeMCU, Node-RED and many others. All you need to connect the GGreg20_V3 is a system with a pulse counter on the GPIO and a timer to measure time.
+
+<img src="https://github.com/iotdevicesdev/ggreg20-v3-homeassistant-esphome-example/blob/main/made-for-esphome-black-on-white.png" width="250">
+
 
 ### GGreg20_V3 compatible firmware for Flipper Zero
 > If GGreg20_V3 is used with a J305 Geiger tube, no changes are required at all, i.e. you can simply compile this example. 
