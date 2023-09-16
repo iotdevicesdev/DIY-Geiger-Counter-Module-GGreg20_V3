@@ -147,7 +147,9 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 
 [GitHub 'geiger-counter' topic](https://github.com/search?q=topic%3Ageiger-counter&type=repositories)
 
-[Medium 'Geiger Counter' tag](https://medium.com/tag/ggreg20-v3)
+[Medium 'GGreg20_V3' tag](https://medium.com/tag/ggreg20-v3)
+
+[Medium 'Geiger Counter Kits' tag](https://medium.com/tag/geiger-counter-kits)
 
 [HackerNoon 'Geiger Counter' tag](https://hackernoon.com/tagged/ggreg20_v3)
 
