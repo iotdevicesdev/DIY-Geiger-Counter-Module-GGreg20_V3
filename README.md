@@ -13,6 +13,12 @@
 [go.iot-devices.com.ua/geiger-counter-emulator](https://go.iot-devices.com.ua/geiger-counter-emulator) <=>
 [go.iot-devices.com.ua/gcemu20_v1](https://go.iot-devices.com.ua/gcemu20_v1)
 
+### Where and How to Order
+[Website Online Shop](https://go.iot-devices.com.ua/ggreg20_v3)
+
+[Tindie Marketplace](https://go.iot-devices.com.ua/ggreg20_v3_tindie)
+
+[Etsy Store](https://go.iot-devices.com.ua/ggreg20_v3_etsy)
 
 <a href="https://www.tindie.com/stores/iotdev/?ref=offsite_badges&utm_source=sellers_iotdevices&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
