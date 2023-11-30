@@ -33,7 +33,7 @@
 | Raspberry Pi Pico W | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#raspberry-pi-pico-w-example--yaml)|
 | Arduino UNO | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [View it](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#arduino--c)|
 | ESP8266-12F | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [ESPHome / YAML](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#esp8266-example--yaml) and [NodeMCU / Lua](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#nodemcu--lua)|
-| ESP32 (generic) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [ESPHome / YAML](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#esp32-example--yaml) and [Tsmota32 / Berry](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#tasmota--berry)|
+| ESP32 (generic) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: [ESPHome / YAML](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#esp32-example--yaml) and [Tasmota32 / Berry](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3#tasmota--berry)|
 | STM32 | :heavy_check_mark: | :x: | :x: |
 
 ## Driver Libraries and Code Examples
