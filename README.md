@@ -118,6 +118,16 @@ In other cases (for example, if GGreg20_V3 is used with an SBM20 tube), you need
 ![RPi_Sboger_reddit_2023-07-10_180802](https://github.com/iotdevicesdev/DIY-Geiger-Counter-Module-GGreg20_V3/assets/96241971/a45bedb4-734f-46b0-ad7b-4a8e324470e6)
 
 ## Technical Notes
+### New notes (2024-2025)
+[Testing of energy consumption by Geiger counter GGreg20_V3](https://iot-devices.com.ua/en/ggreg20_v3-geiger-counter-energy-consumption-testing/)
+[ESPHome firmware for ESP32 with GGreg20_V3 – solution to the problem with the pulse counter](https://iot-devices.com.ua/en/esphome-esp32-ggreg20_v3-firmware-pulse-counter-issue-solution/)
+[Application note on the use of the high-voltage converter DCDC_3V3_400V_V1 as a power supply for the Geiger-Muller tube](https://iot-devices.com.ua/en/high-voltage-converter-dcdc-3v3-400v-v1-application-note/)
+[Technical note on initial diagnostics of the GGreg20_V3 module with J305 tube](https://iot-devices.com.ua/en/technical-note-on-initial-diagnostics-of-ggreg20-v3/)
+[Geiger tube J305 conversion factor: differences between the coefficient for source radiation power and absorbed dose. Technical note](https://iot-devices.com.ua/en/geiger-tube-j305-conversion-factor-difference-for-radiation-source-power-and-absorbed-dose-technical-note-en/)
+[Geiger tube J305: How to calculate the conversion factor of CPM to μSv/h. Technical note](https://iot-devices.com.ua/en/geiger-tube-j305-how-to-calculate-the-conversion-factor-of-cpm-technical-note-en/)
+[About changes in ESPHome configuration validation – Pin Reuse validation](https://iot-devices.com.ua/en/about-changes-in-esphome-configuration-validation-pin-reuse-validation-en/)
+
+### Old notes (2021-2023)
 [Technical note on voltage level matching for GGreg20_V3 and 5V MCU](https://iot-devices.com.ua/en/technical-note-on-voltage-level-matching-for-ggreg20v3-and-5v-mcu/)
 
 [DIY Geiger counter: GGreg20_V3 and ESP12.OLED connection diagram](https://iot-devices.com.ua/en/diy_geiger_counter_ggreg20_v3_and_esp12-oled_wiring_diagram_en/)
